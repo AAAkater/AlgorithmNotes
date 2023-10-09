@@ -45,3 +45,4 @@ void kmp(string s,string p)
 ## 2. **next数组**
 next数组就是PMT整体右移一位(next[0]=-1)
 
+![Alt text](image.png)
